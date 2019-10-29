@@ -8,6 +8,8 @@ import org.testng.asserts.SoftAssert;
 
 public class US_004_ScheduleAppointment extends TestBaseClass{
 	 
+	//Modify the code
+	
 	@Test
 	public void validateAppointment() throws InterruptedException
 	{
